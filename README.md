@@ -1,0 +1,2 @@
+# QT-Resiger
+QT harjoitus
